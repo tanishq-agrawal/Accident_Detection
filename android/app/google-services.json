@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "81174669265",
+    "project_id": "s-a-f-e-guard-yzabrc",
+    "storage_bucket": "s-a-f-e-guard-yzabrc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81174669265:android:c7b1424a46a9388b2de2f0",
+        "android_client_info": {
+          "package_name": "com.mycompany.safeguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81174669265-hqb6r2jca4car10fgo9r165v8t1igr0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxBcgYgundtC16iaVMB9HDtBu7SnIpCIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81174669265-hqb6r2jca4car10fgo9r165v8t1igr0p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81174669265-31h6nlj8mfjs8m5jd1ljm6nghki76042.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.safeguard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
